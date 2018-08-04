@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John McCracken',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    url: 'https://www.john-mccracken.com',
+    title: 'John McCracken',
+    subtitle: 'Software developer from Ayrshire, Scotland.',
     copyright: '',
     disqusShortname: '',
     menu: [
@@ -112,7 +112,7 @@ module.exports = {
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: 'UA-73379983-2' }
+      options: { trackingId: 'UA-79921517-1' }
     },
     {
       resolve: `gatsby-plugin-google-fonts`,
